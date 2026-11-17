@@ -12,7 +12,7 @@ I use Python and SQL to study credit risk and customer behavior. My projects als
 |---|---|---|
 | [Fintech Credit Risk](https://github.com/moknihadil-eng/fintech-credit-risk) | How well can credit history predict default? | Model comparison, validation results, SHAP explanations and a Streamlit dashboard |
 | [Revenue & Retention Analytics](https://github.com/moknihadil-eng/revenue-retention-analytics) | How much revenue comes from purchases after a customer's first order? | SQL models, retention cohorts, RFM segments and a visual report |
-| ShopPulse — Modern Data Platform | How can an e-commerce team update its analytics as new data arrives? | Incremental ingestion, customer history, dbt tests and scheduled pipelines. Private repository, available by invitation. |
+| [ShopPulse — Modern Data Platform](#shoppulse--modern-data-platform) | How can an e-commerce team update its analytics as new data arrives? | Incremental ingestion, customer history, dbt tests and scheduled pipelines. Private repository, available by invitation. |
 
 ## Fintech Credit Risk
 
