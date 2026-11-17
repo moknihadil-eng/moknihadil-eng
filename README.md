@@ -25,7 +25,12 @@ My portfolio covers two complementary questions: **what do the data tell us?** a
 [SQL](https://github.com/moknihadil-eng/revenue-retention-analytics/tree/main/sql) ·
 [Methodology](https://github.com/moknihadil-eng/revenue-retention-analytics/blob/main/docs/methodology.md)
 
+<details>
+<summary>Preview the Revenue & Retention dashboard</summary>
+
 ![Revenue and retention dashboard](https://raw.githubusercontent.com/moknihadil-eng/revenue-retention-analytics/main/reports/figures/dashboard.png)
+
+</details>
 
 ### 02 · ShopPulse — Modern Data Platform
 
