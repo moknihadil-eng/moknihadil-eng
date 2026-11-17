@@ -1,8 +1,8 @@
 # Hadil Mokni
 
-### Data Science & Machine Learning
+### Data Science, Machine Learning & Artificial Intelligence
 
-I’m a final-year software engineering student at ISSAT Sousse, Tunisia, seeking a **six-month internship in Data Science, Machine Learning or AI starting in January 2027**.
+I’m a final-year software engineering student at ISSAT Sousse, Tunisia, seeking a **six-month internship in data science, machine learning and artificial intelligence** starting in January 2027.
 
 I use Python and SQL to study credit risk and customer behavior. My projects also cover the engineering work behind an analysis, from ingesting raw data to testing the tables used in a dashboard.
 
