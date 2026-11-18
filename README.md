@@ -1,18 +1,16 @@
 # Hadil Mokni
 
-### Data Science, Machine Learning & Artificial Intelligence
+### Data Science, Machine Learning & Applied AI
 
-I’m a final-year software engineering student at ISSAT Sousse, Tunisia, seeking a **six-month internship in data science, machine learning and artificial intelligence** starting in January 2027.
-
-I use Python and SQL to study credit risk and customer behavior. My projects also cover the engineering work behind an analysis, from ingesting raw data to testing the tables used in a dashboard.
+I’m a final-year software engineering student at ISSAT Sousse, Tunisia. I work with Python and SQL and am seeking a **six-month internship in Data Science, Machine Learning, or Applied AI starting February 1, 2027**.
 
 ## Featured projects
 
-| Project | Question | What to explore |
+| Project | What I built | Results and links |
 |---|---|---|
-| [Fintech Credit Risk](https://github.com/moknihadil-eng/fintech-credit-risk) | How well can credit history predict default? | Model comparison, validation results, SHAP explanations and a Streamlit dashboard |
-| [Revenue & Retention Analytics](https://github.com/moknihadil-eng/revenue-retention-analytics) | How much revenue comes from purchases after a customer's first order? | SQL models, retention cohorts, RFM segments and a visual report |
-| [ShopPulse — Modern Data Platform](#shoppulse--modern-data-platform) | How can an e-commerce team update its analytics as new data arrives? | Incremental ingestion, customer history, dbt tests and scheduled pipelines. Private repository, available by invitation. |
+| [Fintech Credit Risk](https://github.com/moknihadil-eng/fintech-credit-risk) | Compared credit-default models and built a Streamlit dashboard with SHAP explanations. | Analyzed **307,000+ customer records**. LightGBM achieved a **validation ROC-AUC of 0.7833**. |
+| [Revenue & Retention Analytics](https://github.com/moknihadil-eng/revenue-retention-analytics) | Built SQL models, analyzed retention cohorts, and segmented customers using RFM. | Analyzed **18,491 orders** and **4,337 identified customers**. [Executive summary](https://github.com/moknihadil-eng/revenue-retention-analytics/blob/main/reports/executive-summary.md) |
+| [ShopPulse — Modern Data Platform](#shoppulse--modern-data-platform) | Built incremental ingestion, orchestrated pipelines with Dagster, and created **18 dbt models**. | **62 data tests passed**. Private repository, available by invitation. |
 
 ## Fintech Credit Risk
 
