@@ -11,6 +11,7 @@ I’m a final-year software engineering student at ISSAT Sousse, Tunisia. I work
 | [Fintech Credit Risk](https://github.com/moknihadil-eng/fintech-credit-risk) | Compared credit-default models and built a Streamlit dashboard with SHAP explanations. | Analyzed **307,000+ customer records**. LightGBM achieved a **validation ROC-AUC of 0.7833**. |
 | [Revenue & Retention Analytics](https://github.com/moknihadil-eng/revenue-retention-analytics) | Built SQL models, analyzed retention cohorts, and segmented customers using RFM. | Analyzed **18,491 orders** and **4,337 identified customers**. [Executive summary](https://github.com/moknihadil-eng/revenue-retention-analytics/blob/main/reports/executive-summary.md) |
 | [ShopPulse — Modern Data Platform](#shoppulse--modern-data-platform) | Built incremental ingestion, orchestrated pipelines with Dagster, and created **18 dbt models**. | **62 data tests passed**. Private repository, available by invitation. |
+| [Gex-Orthophoto](https://github.com/moknihadil-eng/gex-orthophoto) | Built a full-stack web application with React and Flask for user authentication and protected account access. | Five REST routes and automated tests for authentication and access control. |
 
 ## Fintech Credit Risk
 
